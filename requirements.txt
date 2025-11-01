@@ -1,4 +1,7 @@
 streamlit
 openai
-PyMuPDF
+PyPDF2
 scikit-learn
+numpy
+pandas
+matplotlib
